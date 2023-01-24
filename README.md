@@ -1,6 +1,6 @@
 # TABLEAU
 
-COMPARATIVE STUDY OF COUNTRIES:
+COMPARATIVE STUDY OF COUNTRIES:   - By Mohammed Jabir
 
 Description: 
 You are a data analyst working for an insurance company. The company is
