@@ -1,8 +1,6 @@
-# TABLEAU
+# COMPARATIVE STUDY OF COUNTRIES:   - By Mohammed Jabir
 
-COMPARATIVE STUDY OF COUNTRIES:   - By Mohammed Jabir
-
-Description: 
+## Description: 
 You are a data analyst working for an insurance company. The company is
 expanding and wants to open new branches in various parts of the world.
 So, you must create a dashboard to compare all the different countries,
@@ -16,7 +14,7 @@ Note:
 Use Data Blending with Relationships between Country Code, Country,
 and Year.
 
-Problem Statement and Motivation:
+## Problem Statement and Motivation:
 Your task is to compare various parameters such as
 • Income
 • Life insurance share
@@ -25,7 +23,7 @@ Your task is to compare various parameters such as
 • Ratio of reinsurance accepted
 • Retention ratio of different countries
 
-Task:
+## Task:
 1. Create a geographic map showing the countries' fields
 2. Create a webpage to show data from the world bank webpage
 3. Create a KPI Table
